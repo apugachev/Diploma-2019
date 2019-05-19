@@ -1,1 +1,5 @@
-# Diploma-2019
+# Machine Reading Methods for Answering Multiple Choice Questions
+
+Recently machine reading comprehension task became one of the most popular task in Natural Language Processing (NLP). The quality of NLP models often directly depends on the vector representation of texts. Within this work there were investigated and implemented different approaches to solution of one of the machine reading comprehension tasks, namely the task of answering multiple-choice questions. Unlike most of the approaches which are based on searching the answer to a question in a knowledge base, approaches which were studied in this work make decisions based only on the embeddings of questions and answers. There are examined both simple (approach based on cosine similarity, Word2Vec model) and complex (DSSM neural network, ELMo and BERT models) approaches and vector representations. For the investigation and solution of the task there was collected suitable dataset on various topics. In this research it is shown dependence of the quality of models on the variety of topics and the number of unique topics in the dataset.
+
+Keywords: machine learning, natural language processing, machine reading comprehension, word embedding.
